@@ -1,0 +1,5 @@
+<resources>
+    <!-- Matches Night in ui/Theme.kt so launch shows no flash. -->
+    <color name="night">#FF151831</color>
+    <color name="gold">#FFFFD25E</color>
+</resources>
